@@ -34,11 +34,12 @@ A beautiful, interactive weather dashboard that provides real-time weather data 
 
 ## 🚀 Live Demo
 
-[Add your Vercel URL here after deployment]
+https://weatherbygulshan.vercel.app/
 
 ## 📸 Screenshots
 
-[Add screenshots after deployment]
+![landing page](image.png)
+![search results](image-1.png)
 
 ## 💻 Local Setup
 
@@ -57,51 +58,12 @@ Open index.html in your browser
 This project is open source and available under the MIT License.
 
 👨‍💻 Author
-[Your Name]
+Gulshan
 
-GitHub: [@your-username]
-LinkedIn: [Your LinkedIn]
+GitHub: [@gullu5801]
+LinkedIn: [https://www.linkedin.com/feed/]
 🙏 Acknowledgments
 Weather data provided by OpenWeatherMap API
 Icons from OpenWeatherMap
-Built as part of Frontend Web Development Advanced Course
+Built as part of Kalvium
 </details>
-
-### 6.2 Optional: Create .gitignore (If not exists)
-
-**Your task:** Update `.gitignore` to exclude unnecessary files
-
-<details>
-<summary>View Code</summary>
-
-Dependencies
-node_modules/
-
-Environment variables (if you use them)
-.env .env.local
-
-OS files
-.DS_Store Thumbs.db
-
-Editor directories
-.vscode/ .idea/
-
-Logs
-*.log
-
-</details>
-
-### 6.3 Optional: Move API Key to Separate File
-
-For better security, you can separate your API key.
-
-**Your task:** Create `config.js` file
-
-<details>
-<summary>View Code</summary>
-
-```javascript
-// TODO: Create config.js (optional)
-const CONFIG = {
-    API_KEY: 'YOUR_API_KEY_HERE'
-};
